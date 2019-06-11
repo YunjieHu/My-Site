@@ -5,8 +5,8 @@ import dashboard from '../../../../../react-client/dist/react-client/ustart_dash
 import profile from '../../../../../react-client/dist/react-client/ustart_profile.jpg';
 import project from '../../../../../react-client/dist/react-client/ustart_project.jpg';
 import search from '../../../../../react-client/dist/react-client/ustart_search.png'
-import prototype1 from '../../../../../react-client/dist/react-client/idmproject2- first prototype.png';
-import prototype2 from '../../../../../react-client/dist/react-client/idmproject2-laserprinting sketch.png';
+import prototype1 from '../../../../../react-client/dist/react-client/idmproject2-prototype.png';
+import prototype2 from '../../../../../react-client/dist/react-client/idmproject2-sketch.png';
 import moodboard from '../../../../../react-client/dist/react-client/idmproject2-moodboard.png';
 import finalproto from '../../../../../react-client/dist/react-client/idmproject2.png'
 
