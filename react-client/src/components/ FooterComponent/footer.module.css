@@ -1,0 +1,25 @@
+.footer {
+  background-attachment: fixed;
+  position: relative;
+  line-height: 20px;
+}
+
+.dark-theme {
+  background-color: #1a1817;
+  color: #ffffff !important;
+}
+
+.copyright {
+  color: #777777;
+  padding: 10px 15px;
+  font-size: 14px;
+  margin: 15px 3px;
+  line-height: 20px;
+  text-align: center;
+}
+
+@media (max-width: 465px) {
+  /* #social-nav {
+        display: none !important;
+    }*/
+}
