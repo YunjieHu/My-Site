@@ -5,6 +5,7 @@ import resumePreview from '../../../../react-client/dist/react-client/preview.jp
 import homePageStyles from '../HomePageComponent/homepage.module.css';
 import globalStyles from "../bootstrap.min.module.css";
 import cx from 'classnames';
+import Resume from "./Resume.pdf"
 
 class ResumePage extends Component {
 
@@ -17,7 +18,7 @@ class ResumePage extends Component {
                             <div className={pageStyles['resume-body']}>
                                 <img src = {resumePreview}></img>
                             </div>
-                            <a href ="./Resume.pdf" className={cx(globalStyles['btn'] ,homePageStyles['btn'], pageStyles['download-btn']) } download >Download Here</a>
+                            <a href ={Resume} className={cx(globalStyles['btn'] ,homePageStyles['btn'], pageStyles['download-btn']) } download >Download Here</a>
                     </Container>
                 </div>
 

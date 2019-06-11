@@ -32,6 +32,10 @@ module.exports = {
         loader: 'file-loader'
       },
       {
+        test: /\.pdf/,
+        loader: 'file-loader'
+      },
+      {
         test: /\.(js|jsx)$/,
         exclude: /(node_modules|bower_components)/,
         loader: 'babel-loader',
