@@ -8,7 +8,7 @@ import search from '../../../../../react-client/dist/react-client/ustart_search.
 import prototype1 from '../../../../../react-client/dist/react-client/prototype.png';
 import prototype2 from '../../../../../react-client/dist/react-client/sketch.png';
 import moodboard from '../../../../../react-client/dist/react-client/moodboard.png';
-import finalproto from '../../../../../react-client/dist/react-client/idmproject2.png'
+import finalproto from '../../../../../react-client/dist/react-client/project2.png'
 
 class ShowcaseModal extends Component{
     showContent(){
