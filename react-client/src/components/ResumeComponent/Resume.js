@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Container } from 'react-bootstrap';
 import pageStyles from './resume.module.css';
-import resumePreview from '../../../../react-client/dist/react-client/preview.jpg'
+import resumePreview from '../../../../react-client/dist/react-client/preview.png'
 import homePageStyles from '../HomePageComponent/homepage.module.css';
 import globalStyles from "../bootstrap.min.module.css";
 import cx from 'classnames';
