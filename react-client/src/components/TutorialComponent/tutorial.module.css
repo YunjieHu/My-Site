@@ -1,4 +1,4 @@
-.portfolio-section{
+.tutorial-section{
     background-color: #2c3e50;
     position: relative;
 }
@@ -7,16 +7,11 @@
     max-width: 900px !important;
 }
 
-.card:hover{
-    transform: scale(1.05);
-    cursor: pointer;
-}
-
 @media only screen and (min-width: 993px) {
     .main{
         margin-top: -112px;
     }
-    .portfolio-section{
+    .tutorial-section{
         padding: 200px 0 300px 0;
     }
 }
@@ -25,7 +20,7 @@
     .resume-body img{
         width:90vw;
     }
-    .portfolio-section{
+    .tutorial-section{
         padding: 100px 0 150px 0;
     }
 }

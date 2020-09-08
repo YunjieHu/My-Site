@@ -44,6 +44,18 @@ class NavBar extends Component {
               </div>
            </a>
          </li>
+         {/*<li className={globalStyles['nav-item']}>
+           <a className={cx(globalStyles['nav-link'],navbarStyles['nav-link-inverse']) }  href="/Tutorials">
+           <div className="svg-wrapper">
+              <svg height="60" width="100" xmlns="http://www.w3.org/2000/svg">
+                <g>
+                <rect className="shape" height="60" width="100" />
+                <text x="11" y="45" font-size="20" fill="white">Tutorials</text>
+                </g>
+              </svg>
+            </div>
+            </a>
+         </li>*/}
          <li className={globalStyles['nav-item']}>
            <a className={cx(globalStyles['nav-link'],navbarStyles['nav-link-inverse']) }  href="/Portfolio">
            <div className="svg-wrapper">
